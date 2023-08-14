@@ -1,10 +1,10 @@
 #include <iostream>
 #include <gtest/gtest.h>
 
-// #include "q1.h"
-// #include "q2.h"
-// #include "q3.h"
-// #include "q4.h"
+#include "q1.h"
+#include "q2.h"
+#include "q3.h"
+#include "q4.h"
 
 int main(int argc, char **argv)
 {
