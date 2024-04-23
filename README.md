@@ -16,6 +16,7 @@
 
 1. [effective modern cpp tutorial](https://cntransgroup.github.io/EffectiveModernCppChinese/Introduction.html)
 1. [modern cpp](https://changkun.de/modern-cpp/)
+1. [c++ super-faq](https://isocpp.org/wiki/faq)
 
 ## Project (自行选做)
 
