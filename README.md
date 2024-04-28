@@ -19,12 +19,13 @@
 1. [modern cpp](https://changkun.de/modern-cpp/)
 1. [c++ super-faq](https://isocpp.org/wiki/faq)
 1. [cs106L course Reader](https://www.keithschwarz.com/cs106l/fall2010/)
+1. [blog](https://question-board.readthedocs.io/personal_learning_map/main.html)
+
 
 ## Project (自行选做)
 
 1. [MyTinySTL](https://github.com/Alinshans/MyTinySTL)
 1. [TinySTL](https://github.com/zouxiaohang/TinySTL)
-1. blog : 自己找
 
 ## 必须完成项
 
