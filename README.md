@@ -20,6 +20,7 @@
 1. [c++ super-faq](https://isocpp.org/wiki/faq)
 1. [cs106L course Reader](https://www.keithschwarz.com/cs106l/fall2010/)
 1. [blog](https://question-board.readthedocs.io/personal_learning_map/main.html)
+1. [videos](https://space.bilibili.com/2134242)
 
 
 ## Project (自行选做)
