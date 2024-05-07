@@ -21,12 +21,14 @@
 1. [cs106L course Reader](https://www.keithschwarz.com/cs106l/fall2010/)
 1. [blog](https://question-board.readthedocs.io/personal_learning_map/main.html)
 1. [videos](https://space.bilibili.com/2134242)
+1. [邓俊辉数据结构c++](https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/)
 
 
 ## Project (自行选做)
 
 1. [MyTinySTL](https://github.com/Alinshans/MyTinySTL)
 1. [TinySTL](https://github.com/zouxiaohang/TinySTL)
+
 
 ## 必须完成项
 
