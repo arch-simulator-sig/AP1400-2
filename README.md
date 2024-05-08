@@ -32,7 +32,7 @@
 
 ## 必须完成项
 
-1. c++重写[mini-rv32ima](https://github.com/cnlohr/mini-rv32ima)并启动nommu-linux
+1. c++重写[mini-rv32ima](https://github.com/cnlohr/mini-rv32ima) or [semu](https://github.com/sysprog21/semu)
 
 ## 必须掌握的内容
 1. stream
@@ -54,3 +54,9 @@
 1. gperftools
 1. GoogleTest
 1. 最重要的：编写方便的脚本
+
+## system programming
+
+1. [cs341](https://cs341.cs.illinois.edu/assignments.html) 
+1. [system programming](https://github.com/angrave/SystemProgramming)
+1. [linux核心设计](https://hackmd.io/@sysprog/linux-concepts)
